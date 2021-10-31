@@ -10,3 +10,5 @@
 ## 常用plugin
     ### plugin：插件 Plugin可以扩展webpack的功能，让webpack具有更多的灵活性。 在 Webpack 运行的生命周期中会广播出许多事件，Plugin 可以监听这些事件，在合适的时机通过 Webpack 提供的 API 改变输出结果。
     ### html-webpack-plugin 为html文件中引入的外部资源，可以生成创建html入口文件
+## 打包格式
+    
