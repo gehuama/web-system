@@ -12,3 +12,7 @@
     ### html-webpack-plugin 为html文件中引入的外部资源，可以生成创建html入口文件
 ## 打包格式
     
+
+## windows 电脑 node_modules 删除不了问题
+    1. 方法一：命令 rm -rf node_modules
+    2. 方法二：采用压缩工具 例如好压 选择压缩后删除 再把压缩后的压缩文件删除
